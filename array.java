@@ -4,8 +4,7 @@
 //         System.out.println(arr[0]);
 //         System.out.println(arr.length);
 //         System.out.println(arr.length-1);
-//     }
-
+//     }
 // }
 
 //find max value in array
